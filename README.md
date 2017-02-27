@@ -1,6 +1,10 @@
 ## Halite-Competition-Proiect-PA
 
-(https://www.youtube.com/watch?v=2_N6ZcOioQI)
+Halite Game description and rules:
+ - https://www.youtube.com/watch?v=2_N6ZcOioQI
+
+Demonstration1:
+- https://www.youtube.com/watch?v=fjkZmg_zF7Y
 
 
 Team:
