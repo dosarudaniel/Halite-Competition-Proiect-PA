@@ -5,7 +5,7 @@
 
 
 Team:
--Cristina Buciu
--Isopescu Sergiu
--Daniel-Florin Dosaru
--Daniel Bălteanu
+>- Cristina Buciu
+>- Isopescu Sergiu
+>- Daniel-Florin Dosaru
+>- Daniel Bălteanu
