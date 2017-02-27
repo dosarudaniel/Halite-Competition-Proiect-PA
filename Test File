@@ -1,0 +1,8 @@
+Acest fisier va trebui sa ne antreneze sa rezolvam conflictele.
+
+Vor lucra doua persoane simultan la acest fisier.
+
+ - Fiecare va scrie un paragraf.
+ - Vor modifica urmatoarea propozitie: "Ana are mere" după bunul plac.
+ 
+ Un alt scenariu: Un membru al echipei face modificari într-un fisier apoi face pull request si cel putin doi oameni trebuie sa dea ACK.
