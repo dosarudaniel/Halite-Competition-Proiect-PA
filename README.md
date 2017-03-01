@@ -11,6 +11,8 @@ Official source:
 Demonstration1:
 - https://www.youtube.com/watch?v=fjkZmg_zF7Y
 
+Stage 1 objective: single player mode
+- Very nice visualizer: https://goo.gl/Kr1FOh
 
 Team:
 >- Cristina Buciu
