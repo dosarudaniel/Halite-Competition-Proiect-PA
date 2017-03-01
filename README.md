@@ -3,7 +3,7 @@
 Halite Game description and rules:
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=2_N6ZcOioQI" target="_blank"><img src="http://img.youtube.com/vi/2_N6ZcOioQI/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="400" height="300" border="20" /></a>
 
 Official source:
  - https://halite.io/rules_game.php
