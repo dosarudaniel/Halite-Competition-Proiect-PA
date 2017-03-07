@@ -18,13 +18,14 @@ Stage 1 objective: single player mode
 - clone this  repository
 - `cd Halite-Competition-Proiect-PA`
 - `cp MyBot.cpp your_Bot_name.cpp`
-Write a smart Bot
+
+Code a smart Bot in your_Bot_name.cpp file!
 
 [You can edit map seed on runGame.sh 5th line]
 
 - `./runGame.sh`
 
-If you don't get any error you can visualize your Bot performance <a href="https://halite.io/local_visualizer.php"> here .
+If you don't get any error you can visualize your Bot performance by uploading .hlt file <a href="https://halite.io/local_visualizer.php"> here.
 
 
 # Team: 
