@@ -14,8 +14,21 @@ Demonstration1:
 Stage 1 objective: single player mode
 - Very nice visualizer: https://goo.gl/Kr1FOh
 
-Team:
->- Cristina Buciu
->- Isopescu Sergiu
->- Daniel-Florin Dosaru
->- Daniel Bălteanu
+# How to create your own Bot:
+- clone this  repository
+- `cd Halite-Competition-Proiect-PA`
+- `cp MyBot.cpp your_Bot_name.cpp`
+Write a smart Bot
+
+[You can edit map seed on runGame.sh 5th line]
+
+- `./runGame.sh`
+
+If you don't get any error you can visualize your Bot performance <a href="https://halite.io/local_visualizer.php"> here .
+
+
+# Team: 
+>- Cristina Buciu 321CA
+>- Isopescu Sergiu 321CA
+>- Daniel-Florin Dosaru 321CA
+>- Daniel Bălteanu 321CA
