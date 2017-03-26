@@ -36,9 +36,9 @@ For college compatition:
 - `python ./run.py --cmd "./LastBot" --round 1`
 
 If you don't get any error you can visualize your Bot performance by uploading 
-.hlt file <a href="https://halite.io/local_visualizer.php"> here.
+.hlt file here: https://halite.io/local_visualizer.php .
 
-################################################################################
+
 
 
 Mediile de dezvoltare folosite de echipa noastră au fost sublime, gedit pentru
@@ -79,34 +79,42 @@ Modalitatea de rulare:
 - `python ./run.py --cmd "./LastBot.o" --round 1`
 
 Rezultate:
-Round 1 - single player map conquest!
-./LastBot.o
-Replay file: 20x15-1-42.hlt
-Map conquered in 116!
-Map score: 0.1
-./LastBot.o
-Replay file: 15x20-1-42.hlt
-Map conquered in 118!
-Map score: 0.1
-./LastBot.o
-Replay file: 30x30-1-42.hlt
-Map conquered in 171!
-Map score: 0.1
-./LastBot.o
-Replay file: 40x40-1-42.hlt
-Map conquered in 189!
-Map score: 0.1
-./LastBot.o
-Replay file: 50x50-1-42.hlt
-Map conquered in 203!
-Map score: 0.1
-Round 1 - done!
-Final score: 0.5/0.5
+Compiling player sources.. 
+g++ -std=c++11 LastBot.cpp -o LastBot.o  
+Round 1 - single player map conquest!  
+./LastBot.o   
+Replay file: 20x15-1-42.hlt  
+Map conquered in 109!     
+Map score: 0.1   
+./LastBot.o  
+Replay file: 15x20-1-42.hlt 
+Map conquered in 131!  
+Map score: 0.1   
+./LastBot.o  
+Replay file: 30x30-1-42.hlt  
+Map conquered in 174!  
+Map score: 0.1  
+./LastBot.o  
+Replay file: 40x40-1-42.hlt  
+Map conquered in 190!  
+Map score: 0.1  
+./LastBot.o  
+Replay file: 50x50-1-42.hlt   
+Map conquered in 195!  
+Map score: 0.1    
+Round 1 - done!    
+Final score: 0.5/0.5  
+
+| Map size | Number of frames  |  
+| 20x15 ----|-----  109         |   
+| 15x20 ----|-----  131         |   
+| 30x30 ----|-----  174         |   
+| 40x40 ----|-----  190         |   
+| 50x50 ----|-----  195         |   
 
 
 Surse de inspiraţie: https://goo.gl/TF3apJ - ideea variabilei "stay"
 
-################################################################################
 
 
 
