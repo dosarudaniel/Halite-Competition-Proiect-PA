@@ -1,7 +1,8 @@
 # Team: CABackSlashBoys
+
+>- Daniel-Florin Dosaru 321CA - captain: dosarudaniel@gmail.com
 >- Cristina Buciu 321CA
 >- Isopescu Sergiu 321CA
->- Daniel-Florin Dosaru 321CA - căpitan: dosarudaniel@gmail.com
 >- Daniel Bălteanu 321CA
 
 ## Halite-Competition-Proiect-PA
@@ -36,10 +37,10 @@ For college compatition:
 - `python ./run.py --cmd "./LastBot" --round 1`
 
 If you don't get any error you can visualize your Bot performance by uploading 
-.hlt file <a href="https://halite.io/local_visualizer.php"> here.
+.hlt file <a href="https://halite.io/local_visualizer.php" > here.
 
 # Team: 
 >- Cristina Buciu 321CA
 >- Isopescu Sergiu 321CA
->- Daniel-Florin Dosaru 321CA - căpitan: dosarudaniel@gmail.com
+>- Daniel-Florin Dosaru 321CA
 >- Daniel Bălteanu 321CA
