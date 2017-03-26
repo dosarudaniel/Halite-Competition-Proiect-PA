@@ -1,3 +1,9 @@
+# Team: CABackSlashBoys
+>- Cristina Buciu 321CA
+>- Isopescu Sergiu 321CA
+>- Daniel-Florin Dosaru 321CA - căpitan: dosarudaniel@gmail.com
+>- Daniel Bălteanu 321CA
+
 ## Halite-Competition-Proiect-PA
 
 Halite Game description and rules:
@@ -21,15 +27,19 @@ Stage 1 objective: single player mode
 
 Code a smart Bot in your_Bot_name.cpp file!
 
-[You can edit map seed on runGame.sh 5th line]
+[You can edit map seed in runGame.sh file and set a which bot to compile and run]
 
 - `./runGame.sh`
 
-If you don't get any error you can visualize your Bot performance by uploading .hlt file <a href="https://halite.io/local_visualizer.php"> here.
+For college compatition:
+- `make` 
+- `python ./run.py --cmd "./LastBot" --round 1`
 
+If you don't get any error you can visualize your Bot performance by uploading 
+.hlt file <a href="https://halite.io/local_visualizer.php"> here.
 
 # Team: 
 >- Cristina Buciu 321CA
 >- Isopescu Sergiu 321CA
->- Daniel-Florin Dosaru 321CA
+>- Daniel-Florin Dosaru 321CA - căpitan: dosarudaniel@gmail.com
 >- Daniel Bălteanu 321CA
