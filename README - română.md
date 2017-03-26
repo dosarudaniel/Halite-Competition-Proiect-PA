@@ -52,27 +52,28 @@ Am avut întâlniri săptămânale pentru a ne sicroniza ideile şi pentru a le
 analiza pe cele noi.
 
 Întâlnirea 1:
-- Am stabilit limbajul de programare pe care îl vom folosi (C++ datorită
-timpului de execuţie)
-- Am clarificat modalitatea de compilare a unui Bot (fişierele necesare
-comenzile folosite)
+- Am stabilit limbajul de programare pe care îl vom folosi (C++ datorită timpului de execuţie)
+- Am clarificat modalitatea de compilare a unui Bot (fişierele necesare comenzile folosite)
 - Am creat un repository privat pe github încărcat în această arhivă
 
 Întâlnirea 2:
-- Am analizat primul bot realizat care nu reuşea să cucerească harta în numarul 
-limita de miscări
-- Am stabilit următoarele strategii: analiza vecinilor vecinilor şi direcţionarea
-căsuţelor din interior spre exterior analizând linia şi coloana pe care se află
-căsuţa curentă - denumită "home"
+- Am analizat primul bot realizat care nu reuşea să cucerească harta în numarul limita de miscări
+- Am stabilit următoarele strategii: analiza vecinilor vecinilor şi direcţionarea căsuţelor din interior spre exterior analizând linia şi coloana pe care se află căsuţa curentă - denumită "home"
  
 Întâlnirea 3:
-- Am analizat performanţele bot-ului realizat folosind strategiile de la a doua
-întâlnire. (centru_pus_la_treaba_BOT.cpp)
-- Am adăugat îmbunătăţiri (căsuţele cu putere mai mica decât 15 nu se miscă 
-pentru a mări puterea totală)
+- Am analizat performanţele bot-ului realizat folosind strategiile de la a doua întâlnire. (centru_pus_la_treaba_BOT.cpp)
+- Am adăugat îmbunătăţiri (căsuţele cu putere mai mica decât 15 nu se miscă pentru a mări puterea totală)
 
-Algoritmii folosiţi:
+# Algoritmii folosiţi:
+Pornind de la scheletul oficial am analizat fiecare căsuţă la fiecare frame.
+Pentru fiecare căsuţă am analizat vecinii acesteia şi am determinat căsuţa vecină cu producţie maximă şi putere mai mică decât căsuţa actuală (home). Aceasta va fi căsuţa pe care o voi cuceri.
 
+
+Complexitate temporală:
+O(width^2 * height^2)
+
+Complexitate spaţială:
+O(width * height)
 
 Modalitatea de rulare:
 - `make` (compilare LastBot.cpp)
